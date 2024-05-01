@@ -6,3 +6,4 @@ def sumas(a, b):
     else: 
         return("Error: los valores ingresados no son números")
     
+# https://github.com/viniesqui/mdd_lead.git     este es el link para subir el trabajo a git
